@@ -1,0 +1,9 @@
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\LiThuyetSo\bin\Debug\LiThuyetSo.exe.config
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\LiThuyetSo\bin\Debug\LiThuyetSo.exe
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\LiThuyetSo\bin\Debug\LiThuyetSo.pdb
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\LiThuyetSo\obj\Debug\LiThuyetSo.csprojResolveAssemblyReference.cache
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\LiThuyetSo\obj\Debug\LiThuyetSo.Form1.resources
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\LiThuyetSo\obj\Debug\LiThuyetSo.Properties.Resources.resources
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\LiThuyetSo\obj\Debug\LiThuyetSo.csproj.GenerateResource.Cache
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\LiThuyetSo\obj\Debug\LiThuyetSo.exe
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\LiThuyetSo\obj\Debug\LiThuyetSo.pdb

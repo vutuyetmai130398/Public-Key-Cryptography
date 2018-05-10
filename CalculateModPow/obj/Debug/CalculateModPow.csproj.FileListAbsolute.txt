@@ -1,0 +1,8 @@
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\CalculateModPow\bin\Debug\CalculateModPow.exe.config
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\CalculateModPow\bin\Debug\CalculateModPow.exe
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\CalculateModPow\bin\Debug\CalculateModPow.pdb
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\CalculateModPow\obj\Debug\CalculateModPow.Form1.resources
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\CalculateModPow\obj\Debug\CalculateModPow.Properties.Resources.resources
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\CalculateModPow\obj\Debug\CalculateModPow.csproj.GenerateResource.Cache
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\CalculateModPow\obj\Debug\CalculateModPow.exe
+F:\Basic Network Programming\Code\Cryptography\Code\LiThuyetSo\CalculateModPow\obj\Debug\CalculateModPow.pdb
